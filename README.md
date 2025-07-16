@@ -5,6 +5,10 @@ It quietly removes system clutter, clears installer leftovers, and freshens up y
 
 ---
 
+
+### 🔽 [Download Mac Cleaner v1.0](https://github.com/mysterioxx/mac-cleanup/releases/latest)
+
+
 ## ✨ Features
 
 - 🚀 **Boosts performance** by clearing unused system and user cache
